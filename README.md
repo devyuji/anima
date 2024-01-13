@@ -39,15 +39,15 @@ If you want to have any feature than make sure to tell me. I would be happy to a
 
 _There are three variant of apk choose according to your device most device support arm64-v8 variant_
 
-Download from [github](https://github.com/devyuji/anima/release/latest)
+Download from [github](https://github.com/devyuji/anima/releases/latest)
 
 ## Reporting Bugs
 
 If you encounter any bugs or issues while using our app, we encourage you to report them. To do so, please follow these steps:
 
-1. Check the [existing issues](https://github.com/yourusername/your-repo-name/issues) to see if the bug has already been reported. If you find a similar issue, you can add additional information or provide your experience.
+1. Check the [existing issues](https://github.com/devyuji/anima/issues) to see if the bug has already been reported. If you find a similar issue, you can add additional information or provide your experience.
 
-2. If your issue is not already reported, [create a new issue](https://github.com/yourusername/your-repo-name/issues/new/choose) by following the issue template. Please provide as much detail as possible, including a clear title, a description of the bug, steps to reproduce it, and any relevant logs or error messages.
+2. If your issue is not already reported, [create a new issue](https://github.com/devyuji/anima/issues/new/choose) by following the issue template. Please provide as much detail as possible, including a clear title, a description of the bug, steps to reproduce it, and any relevant logs or error messages.
 
 3. Be sure to include the version of the app and the device/OS you're using. Screenshots and code examples are also helpful.
 
